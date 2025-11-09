@@ -1933,20 +1933,27 @@ async def auto_filter(client, msg, spoll=False):
 
 async def ai_spell_check(chat_id, wrong_name):
     async def search_movie(wrong_name):
-        search_results = imdb.search_movie(wrong_name)
-        movie_list = [movie['title'] for movie in search_results]
-        return movie_list
+        try:
+            search_results = imdb.search_movie(wrong_name)
+            movie_list = [movie['title'] for movie in search_results]
+            return movie_list
+        except Exception as e:
+            print(f"Error in ai_spell_check: {e}")
+
     movie_list = await search_movie(wrong_name)
     if not movie_list:
         return
+
     for _ in range(5):
         closest_match = process.extractOne(wrong_name, movie_list)
         if not closest_match or closest_match[1] <= 80:
-            return 
+            return
+
         movie = closest_match[0]
         files, _, _ = await get_search_results(chat_id=chat_id, query=movie)
         if files:
             return movie
+
         movie_list.remove(movie)
 
 async def advantage_spell_chok(client, message):
