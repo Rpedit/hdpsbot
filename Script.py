@@ -193,7 +193,7 @@ Nᴀᴍᴇ : {}
 
 Mᴇꜱꜱᴀɢᴇ : <b>{}</b>"""
     
-    CAPTION = """ 📂 ғɪʟᴇɴᴀᴍᴇ : <a href="https://t.me/+sIOgiCYLtBxhNGI1">{file_name}</a>
+    CAPTION = f""" 📂 ғɪʟᴇɴᴀᴍᴇ : <a href="https://t.me/+sIOgiCYLtBxhNGI1">{file_name}</a>
 
 ⚙️ Sɪᴢᴇ : {file_size}
 
