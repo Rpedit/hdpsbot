@@ -193,9 +193,11 @@ Nᴀᴍᴇ : {}
 
 Mᴇꜱꜱᴀɢᴇ : <b>{}</b>"""
     
-    CAPTION = """<b>📂 ғɪʟᴇɴᴀᴍᴇ : {file_name}
+    CAPTION = """ 📂 ғɪʟᴇɴᴀᴍᴇ : <a href="https://t.me/+sIOgiCYLtBxhNGI1">{file_name}</a>
 
-<b>⚙️ Sɪᴢᴇ : {file_size}</b>"""
+⚙️ Sɪᴢᴇ : {file_size}
+
+🔰 Jᴏɪɴ Bᴀᴄᴋᴜᴘ Cʜᴀɴɴᴇʟ : <b><a href="https://t.me/+pn9yxiyI01wyMDU1">[ ʜᴅᴘsʙᴏᴛᴢ ]</a></b>"""
     
     MOVIE_UPDATE_NOTIFY_TXT = """
 </b><a href={poster_url}>📥 </a><a href={imdb_url}>NEW {tag} ADDED</a></b>
