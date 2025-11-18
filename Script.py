@@ -193,7 +193,11 @@ Nᴀᴍᴇ : {}
 
 Mᴇꜱꜱᴀɢᴇ : <b>{}</b>"""
     
-    CAPTION = """<b><a href="https://t.me/+sIOgiCYLtBxhNGI1">{file_name}</a></b>\n\n<b>⚡ Uᴘʟᴏᴀᴅᴇᴅ ʙʏ : <a href="https://t.me/+sIOgiCYLtBxhNGI1">HD Pʀᴏ Sᴇᴀʀᴄʜ Bᴏᴛ 🔍</a></b>"""
+    CAPTION = """ 📂 ғɪʟᴇɴᴀᴍᴇ: <a href="https://t.me/+sIOgiCYLtBxhNGI1">{file_name}</a>
+
+⚙️ Sɪᴢᴇ: {file_size}
+
+🔰 Jᴏɪɴ Bᴀᴄᴋᴜᴘ Cʜᴀɴɴᴇʟ: <b><a href="https://t.me/+pn9yxiyI01wyMDU1">[ ʜᴅᴘsʙᴏᴛᴢ ]</a></b>"""
 
     
     MOVIE_UPDATE_NOTIFY_TXT = """
