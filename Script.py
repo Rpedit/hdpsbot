@@ -193,11 +193,11 @@ Nᴀᴍᴇ : {}
 
 Mᴇꜱꜱᴀɢᴇ : <b>{}</b>"""
     
-    CAPTION = """ 📂 ғɪʟᴇɴᴀᴍᴇ: <a href="https://t.me/+sIOgiCYLtBxhNGI1">{file_name}</a>
+    CAPTION = """ 📂 ғɪʟᴇɴᴀᴍᴇ : <a href="https://t.me/+sIOgiCYLtBxhNGI1">{file_name}</a>
 
-⚙️ Sɪᴢᴇ: {file_size}
+⚙️ Sɪᴢᴇ : {file_size}
 
-🔰 Jᴏɪɴ Bᴀᴄᴋᴜᴘ Cʜᴀɴɴᴇʟ: <b><a href="https://t.me/+pn9yxiyI01wyMDU1">[ ʜᴅᴘsʙᴏᴛᴢ ]</a></b>"""
+🔰 Jᴏɪɴ Bᴀᴄᴋᴜᴘ Cʜᴀɴɴᴇʟ : <b><a href="https://t.me/+pn9yxiyI01wyMDU1">[ ʜᴅᴘsʙᴏᴛᴢ ]</a></b>"""
 
     
     MOVIE_UPDATE_NOTIFY_TXT = """
