@@ -193,11 +193,9 @@ Nᴀᴍᴇ : {}
 
 Mᴇꜱꜱᴀɢᴇ : <b>{}</b>"""
     
-    CAPTION = """ 📂 ғɪʟᴇɴᴀᴍᴇ : <a href="https://t.me/+sIOgiCYLtBxhNGI1">{file_name}</a>
+    CAPTION = """<b>{}</b>
 
-⚙️ Sɪᴢᴇ : {file_size}
-
-🔰 Jᴏɪɴ Bᴀᴄᴋᴜᴘ Cʜᴀɴɴᴇʟ : <b><a href="https://t.me/+pn9yxiyI01wyMDU1">[ ʜᴅᴘsʙᴏᴛᴢ ]</a></b>"""
+<b>⚠️ ❌👉This file automatically❗delete after 5 minute❗so please forward in another chat👈❌</b>"""
     
     MOVIE_UPDATE_NOTIFY_TXT = """
 </b><a href={poster_url}>📥 </a><a href={imdb_url}>NEW {tag} ADDED</a></b>
