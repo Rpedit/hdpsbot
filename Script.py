@@ -193,11 +193,9 @@ Nᴀᴍᴇ : {}
 
 Mᴇꜱꜱᴀɢᴇ : <b>{}</b>"""
     
-    CAPTION = """<b>{}</b>
+    CAPTION = """<b>📂 ғɪʟᴇɴᴀᴍᴇ : {file_name}
 
-<b>⚠️ ❌👉 THIS FILE AUTOMATICALLY ❗
-DELETES AFTER 5 MINUTE ❗
-SO PLEASE FORWARD IN ANOTHER CHAT 👈❌</b>"""
+<b>⚙️ sɪᴢᴇ : {file_size}</b>"""
     
     MOVIE_UPDATE_NOTIFY_TXT = """
 </b><a href={poster_url}>📥 </a><a href={imdb_url}>NEW {tag} ADDED</a></b>
