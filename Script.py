@@ -195,7 +195,9 @@ Mᴇꜱꜱᴀɢᴇ : <b>{}</b>"""
     
     CAPTION = """<b>{}</b>
 
-<b>⚠️ ❌👉This file automatically❗delete after 5 minute❗so please forward in another chat👈❌</b>"""
+<b>⚠️ ❌👉 THIS FILE AUTOMATICALLY ❗
+DELETES AFTER 5 MINUTE ❗
+SO PLEASE FORWARD IN ANOTHER CHAT 👈❌</b>"""
     
     MOVIE_UPDATE_NOTIFY_TXT = """
 </b><a href={poster_url}>📥 </a><a href={imdb_url}>NEW {tag} ADDED</a></b>
